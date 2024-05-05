@@ -1,27 +1,56 @@
-Project 6: Weather Application
+# Web Development Project 6 - Weather Application
+Submitted by: Dianna
+
+This web app: Tracks the weather of several cities. and goes into a more detailed page based on the city
+
+Time spent: **48** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [ ] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
+- [ ] **Clicking on an item in the list view displays more details about it**
+- [ ] **Clicking on an item has a direct, unique link to that item's detail view page**
 
 
-I used the weather.io API to create this React Application. 
-There are predefined cities, where you are able to view the weather in real time from several countries.
+The following **optional** features are implemented:
 
-This application excercises my abilities to use React, and the inner functinalities like
+- [ ] The site's customized dashboard contains more content that explains what is interesting about the data
+- [ ] The site allows users to toggle between different data visualizations
 
-- using the search bar to filter out city names through a function
-- use effect for fetching the cities current data,
-- use state hooks for creating a weather data list, to filter data(city names)
-- use state hooks for searching the input
-- use state hooks for matching the temperature filter to display information based on the value.
-- Implemented a navigation bar to redirect users to another site
-- Design card components to show imagry and highlight any predefined city.
+The following **additional** features are implemented:
 
+* [ ] List anything else that you added to improve the site's functionality!
 
-This took me a total of 4 days to do, and about 10 hours total.
+## Video Walkthrough
 
-Video Walkthrough:
-<div style="position: relative; padding-bottom: 54.0625%; height: 0;"><iframe src="https://www.loom.com/embed/dc7943cee5b64d21ab189f2ecd78c4aa?sid=8989b328-a650-4ce1-bb8b-2dda4adb2da2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+Here's a walkthrough of implemented user stories:
+<div style="position: relative; padding-bottom: 54.0625%; height: 0;"><iframe src="https://www.loom.com/embed/dc7943cee5b64d21ab189f2ecd78c4aa?sid=32b1440b-f75a-4767-9752-7805580d2f11" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
-Imgur:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/sbjdhwZ"  ><a href="//imgur.com/a/sbjdhwZ">Project 5</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+## Notes
 
-Thanks!
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
