@@ -26,8 +26,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<div style="position: relative; padding-bottom: 54.0625%; height: 0;"><iframe src="https://www.loom.com/embed/dc7943cee5b64d21ab189f2ecd78c4aa?sid=32b1440b-f75a-4767-9752-7805580d2f11" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<div>
+    <a href="https://www.loom.com/share/dc7943cee5b64d21ab189f2ecd78c4aa">
+      <p>Weather Form - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/dc7943cee5b64d21ab189f2ecd78c4aa">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dc7943cee5b64d21ab189f2ecd78c4aa-with-play.gif">
+    </a>
+  </div>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
